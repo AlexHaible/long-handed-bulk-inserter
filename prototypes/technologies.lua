@@ -1,0 +1,1 @@
+table.insert(data.raw["technology"]["bulk-inserter"].effects, { type = "unlock-recipe", recipe = "long-handed-bulk-inserter" })
