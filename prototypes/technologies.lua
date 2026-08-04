@@ -1,1 +1,2 @@
-table.insert(data.raw["technology"]["bulk-inserter"].effects, { type = "unlock-recipe", recipe = "long-handed-bulk-inserter" })
+table.insert(data.raw["technology"]["bulk-inserter"].effects, { type = "unlock-recipe", recipe = "longer-handed-inserter" })
+table.insert(data.raw["technology"]["bulk-inserter"].effects, { type = "unlock-recipe", recipe = "longer-handed-bulk-inserter" })
